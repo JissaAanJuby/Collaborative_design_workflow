@@ -1,4 +1,20 @@
 # Collaborative_design_workflow
+
+# DESIGN-A-MOCKUP-FOR-A-LOGO-EXPLORING-2-3-VARIATIONS.
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : JISSA AAN JUBY
+
+**INTERN ID** : CT04DF1670
+
+**DOMAIN** : FIGMA
+
+**DURATION** : 4 WEEKS
+
+**MENTOR** : NEELA SANTOSH
+
+**DESCRIPTION OF THE TASK PERFORMED NOT UNDER 500 WORDS**
 # 👠 Soleira – Walk in Style
 
 Welcome to **Soleira**, the ultimate destination for elegant, stylish, and empowering heels. This frontend design was created using **Figma** as part of a creative personal project to visualize a luxury footwear brand that prioritizes both aesthetics and comfort.
@@ -56,6 +72,8 @@ This version includes product-centric storytelling with a strong visual identity
 - Built in: Figma (Free Plan)
 
 ---
+
+##OUTPUT
 
 ## 📌 License
 
