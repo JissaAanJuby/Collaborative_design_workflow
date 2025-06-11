@@ -85,6 +85,11 @@ This version includes product-centric storytelling with a strong visual identity
 
 ![Image](https://github.com/user-attachments/assets/2338d75a-2660-44f3-b532-b86f0d1cb90c)
 
+-design after all the changes :
+![Image](https://github.com/user-attachments/assets/d0f44bc1-b9cb-4a8d-b4ef-d769740a972e)
+
+---
+
 ## 📌 License
 
 This is a **mockup project** created for learning and portfolio purposes.  
