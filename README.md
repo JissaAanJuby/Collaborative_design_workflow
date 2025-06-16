@@ -60,7 +60,7 @@ The homepage design reflects Soleira’s core belief:
 ## 🧠 Creative Direction
 
 > “Soleira” combines **fashion-forward design** with **modern digital UX**, inspired by the tagline:
-> _"Where style meets speed."_  
+> _"the new era of soles."_  
 This version includes product-centric storytelling with a strong visual identity.
 
 ---
